@@ -1,0 +1,48 @@
+Git Commands
+_______________________
+
+git --version
+git status
+git help
+git help <command-name>
+git init
+
+git config
+git config --list
+git config --global user.name
+git config --global user.email
+git config --global user.name "Ayush Shrivastva"
+git config --global user.email "AyushDemo@123gmil.com"
+
+Important Steps
+
+git init
+git status
+
+push the file from working area to stage area  
+git add <fileName>
+git add .
+git add --a
+
+unstage the file from stage area to working area 
+git rm --cached <fileName>
+
+
+git status
+
+
+
+
+
+
+
+
+
+
+
+
+Bash Commands
+___________________________
+pwd
+cd
+clear
