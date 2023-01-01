@@ -27,6 +27,10 @@ git add --a
 unstage the file from stage area to working area 
 git rm --cached <fileName>
 
+push the File from stage area to local repository
+git commit -m "First commit" Ab.c
+git commit -m "First commit" 
+
 
 git status
 
